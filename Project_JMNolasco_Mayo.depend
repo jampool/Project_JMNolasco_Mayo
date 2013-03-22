@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1361515771 source:c:\users\able valued client\desktop\project_jmnolasco_mayo\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	"Project.h"
+
+1361515771 c:\users\able valued client\desktop\project_jmnolasco_mayo\project.h
+
+1361515771 source:c:\users\able valued client\desktop\project_jmnolasco_mayo\project.cpp
+	"Project.h"
+	<iostream>
+	<math.h>
+	<cstring>
+	<vector>
+	<stdio.h>
+
+1363937719 source:c:\users\able valued client\desktop\project_jmnolasco_mayo-master\project.cpp
+	"Project.h"
+	<iostream>
+	<math.h>
+	<cstring>
+	<vector>
+	<stdio.h>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
+1363936634 c:\users\able valued client\desktop\project_jmnolasco_mayo-master\project.h
+	<string>
+
+1363937410 source:c:\users\able valued client\desktop\project_jmnolasco_mayo-master\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	"Project.h"
+
+1363937410 source:c:\users\able valued client\desktop\project_jmnolasco_mayo1\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	"Project.h"
+
+1363936634 c:\users\able valued client\desktop\project_jmnolasco_mayo1\project.h
+	<string>
+
+1363937719 source:c:\users\able valued client\desktop\project_jmnolasco_mayo1\project.cpp
+	"Project.h"
+	<iostream>
+	<math.h>
+	<cstring>
+	<vector>
+	<stdio.h>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
